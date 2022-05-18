@@ -1,2 +1,2 @@
-# Gym-App
-ML Project
+# Gymapp
+Building gym app
